@@ -13,5 +13,5 @@ Command Line Version From EXE <br/>
 
  <br/>
 <h3> This library is not for sale </h3>
-- you can use this library for free
-- you can see openssl lincense, <br/>this library license following openssl license, because this library use as third party library ffrom openssl
+* you can use this library for free
+* you can see openssl lincense
