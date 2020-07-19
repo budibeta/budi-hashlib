@@ -1,4 +1,4 @@
-# budi-hashlib
+# hashlib-openssl
 simple hash library dll
 
 this library use openssl https://github.com/openssl/openssl as third party library <br/>
