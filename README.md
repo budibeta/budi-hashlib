@@ -16,4 +16,4 @@ Command Line Version From EXE <br/>
  - you can use this library for free <br/>
  - you can see openssl license <br/> <br/>
  
-<b> this library license following openssl license, because this library use as third party library from openssl </b>
+<b> this library license following openssl license, because this library use third party library from openssl </b>
