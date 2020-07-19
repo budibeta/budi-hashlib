@@ -13,5 +13,7 @@ Command Line Version From EXE <br/>
 
  <br/>
 <h3> This library is not for sale </h3>
-* you can use this library for free
-* you can see openssl lincense
+ - you can use this library for free <br/>
+ - you can see openssl license <br/> <br/>
+ 
+<b> this library license following openssl license, because this library use as third party library from openssl </b>
